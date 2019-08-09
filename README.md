@@ -2,7 +2,7 @@
 
 Tic Tac Toe game using flutter
 
-### Show some :heart: and star the repo to support the project
+### Learning !! All Thanks to Pawan Kumar [Flutter God]
 
 ### Screenshots
 
