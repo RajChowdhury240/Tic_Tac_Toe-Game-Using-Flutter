@@ -8,6 +8,7 @@ class HomePage extends StatefulWidget {
   @override
   _HomePageState createState() => new _HomePageState();
 }
+
 class _HomePageState extends State<HomePage> {
   List<GameButton> buttonsList;
   var player1;
